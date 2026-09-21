@@ -20,4 +20,4 @@ rcloneとGoogle Drive APIを利用します。
 
 ## お問い合わせ
 
-連絡先：hiroshibei38@gmail.com
+連絡先：koutagon17@icloud.com
